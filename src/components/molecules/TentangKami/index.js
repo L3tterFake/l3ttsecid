@@ -30,7 +30,7 @@ const Tentang = () => {
                         transition: { duration: 1, type: "spring" },
                     }}
                 >
-                    <h3 className="text-center text-accent">Apa itu MSN PRODUCTION?</h3>
+                    <h3 className="text-center text-accent">Apa itu L3ttsecID?</h3>
                     <h1 className="text-4xl font-semibold text-center drop-shadow-md">
                         Tentang <span className="text-primary">Kami</span>
                     </h1>
@@ -44,7 +44,8 @@ const Tentang = () => {
                         variants={sectionBodyAnimation}
                     >
                         <p className="font-medium text-accent">
-                            PT. MULIA SEJATI NUSANTARA Berdiri Pada Tanggal 24 Juni 2019 Sebuah Perseroan Terbatas yang bergerak di bidang jasa Suplier & Contractor. Kemudian pada 22 January 2022 PT. MULIA SEJATI NUSANTARA Membuka cabang usaha Baru di Bidang Teknologi yang meliputi Pembuatan Website, Apilkasi Mobile, Branding, Content Creative, Digital Marketing & Advertising. Cabang ini di namakan “Mulia Sejati Nusantara Production" atau di singkat MSN PRODUCTION.
+                            L3ttsecID pada tahun 2020 merupakan sebuah grup dan komunitas hacking yang terbentuk dari orang - orang yang ingin belajar IT. 4 tahun lamanya kami menjelajahi seputar dunia Hacking atau yang biasa di sebut Blackhat.
+                            Pada awal tahun 2024 kami ingin membagikan ilmu dan teknik yang dimana kami pun beralih menjadi Cyber Security.
                         </p>
                     </motion.div>
                 </div>

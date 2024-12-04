@@ -19,17 +19,16 @@ const Footer = () => {
       >
         <div>
           <Link to='/'><img src={logoMSN} alt="MSN PRODUCTION" className="w-32 sm:w-46" /></Link>
-          <h1 className="text-2xl font-bold text-black ">MSN PRODUCTION</h1>
-          <span className="text-accent">Kp. Cigintung RT 010 RW 004, <br />
-            Ds. Kertasari, Kec. Pangkalan, <br />
-            Kab. Karawang Jawa Barat, 41362.</span>
+          <h1 className="text-2xl font-bold text-black ">L3ttsecID</h1>
+          <span className="text-accent">Bandung, <br />
+           Jawa Barat, 40155.</span>
           <div className="flex items-center my-1">
             <FaPhoneAlt className="mr-6 text-2xl text-accent"></FaPhoneAlt>
-            <h3 className="font-medium text-accent">+62 821 2566 4554</h3>
+            <h3 className="font-medium text-accent">+358 4140 01040</h3>
           </div>
           <div className="flex items-center my-1">
             <MdEmail className="mr-6 text-2xl text-accent"></MdEmail>
-            <h3 className="font-medium text-accent">info@msnproduction.com</h3>
+            <h3 className="font-medium text-accent">l3ttsecid@gmail.com</h3>
           </div>
         </div>
         {/* Tautan */}
@@ -108,28 +107,28 @@ const Footer = () => {
         </div>
         <div className="flex items-center mt-4">
           <a
-            href="https://www.linkedin.com/in/mulia-sejati-nusantara-production-a766b3258/"
+            href="https://www.linkedin.com/in/"
             target="blank"
             className="text-2xl text-accent hover:text-primary hover:-translate-y-1.5 shadow-lg mx-1 duration-300"
           >
             <FaLinkedin></FaLinkedin>
           </a>
           <a
-            href="https://web.facebook.com/profile.php?id=100088222058988"
+            href="https://web.facebook.com/"
             target="blank"
             className="text-2xl text-accent hover:text-primary hover:-translate-y-1.5 shadow-lg mx-1 duration-300"
           >
             <FaFacebookSquare></FaFacebookSquare>
           </a>
           <a
-            href="https://twitter.com/MSN_Production"
+            href="https://twitter.com/"
             target="blank"
             className="text-2xl text-accent hover:text-primary hover:-translate-y-1.5 shadow-lg mx-1 duration-300"
           >
             <FaTwitterSquare></FaTwitterSquare>
           </a>
           <a
-            href="https://www.instagram.com/msn.production/"
+            href="https://www.instagram.com/l3ttsecid"
             target="blank"
             className="text-2xl text-accent hover:text-primary hover:-translate-y-1.5 shadow-lg mx-1 duration-300"
           >
@@ -140,7 +139,7 @@ const Footer = () => {
       <footer className="px-10 py-6 text-sm text-center text-base-100 border-base-300 bg-neutral ">
         <div className="w-full h-[2px] bg-gray-600"></div>
         <div className="flex flex-col items-center justify-center mt-6 md:flex-row text-accent">
-          <p>&copy; Copyright 2022, MSN PRODUCTION - PT. Mulia Sejati Nusantara. All Rights Reserved</p>
+          <p>&copy; Copyright 2024, L3ttsecID . All Rights Reserved</p>
         </div>
 
       </footer>

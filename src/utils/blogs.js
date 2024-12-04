@@ -1,8 +1,8 @@
 const blogs = [
   {
     _id: 1,
-    title: "5 Cara Optimasi SEO Instagram, Tingkatkan Visibilitas Akun Anda",
-    path: "optimasi-seo-instagram",
+    title: "Membuat Program Sederhana Merubah Warna Text Microsoft Visual FoxPro9",
+    path: "https://gimxsec7.blogspot.com/2022/02/membuat-program-sederhana-merubah-warna.html",
     date: "10 September 2022",
     img: "https://res.cloudinary.com/dh6s3dche/image/upload/v1680151015/Blog%20MSN/01-5_Cara_Optimasi_SEO_Instagram_Tingkatkan_Visibilitas_Akun_Mu_e0acku.jpg",
     instagram_link:
