@@ -15,9 +15,9 @@ const Banner = () => {
         transition={{ duration: 1 }}
       >
         <h1 className="mb-0 text-4xl font-bold">L3ttsecID</h1>
-        <h2 className="my-6 text-2xl font-bold text-primary">Digital & Kreativitas Kami Wujudkan Visi Bisnis Anda!</h2>
+        <h2 className="my-6 text-2xl font-bold text-primary">Jadi Dirimu dan Temukan Caramu!</h2>
         {/* </div> */}
-        <p className="max-w-md mb-10 font-medium text-accent">L3ttsecID adalah perusahaan penyedia layanan jasa pembuatan Website, Aplikasi Mobile, Branding & Konten Kreatif, serta Internet Marketing & Advertising sesuai kebutuhan bisnis anda dengan harga murah kualitas mewah.
+        <p className="max-w-md mb-10 font-medium text-accent">L3ttsecID merupakan sebuah komunitas Cyber Security yang dimana kami menyediakan beberapa layanan seperti Pentest, QA, Problem Solving, Manual Test & With Tools!
         </p>
 
         <div className="flex items-center mb-20">
