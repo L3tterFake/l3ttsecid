@@ -18,7 +18,7 @@ const Footer = () => {
         style={{ backgroundColor: "#e5e7eb" }}
       >
         <div>
-          <Link to='/'><img src={logoMSN} alt="MSN PRODUCTION" className="w-32 sm:w-46" /></Link>
+          <Link to='/'><img src={logoMSN} alt="L3ttsecID" className="w-32 sm:w-46" /></Link>
           <h1 className="text-2xl font-bold text-black ">L3ttsecID</h1>
           <span className="text-accent">Bandung, <br />
            Jawa Barat, 40155.</span>
@@ -128,7 +128,7 @@ const Footer = () => {
             <FaTwitterSquare></FaTwitterSquare>
           </a>
           <a
-            href="https://www.instagram.com/l3ttsecid"
+            href="https://www.instagram.com/l3ttsec.id"
             target="blank"
             className="text-2xl text-accent hover:text-primary hover:-translate-y-1.5 shadow-lg mx-1 duration-300"
           >

@@ -135,11 +135,11 @@ const Kontak = () => {
         >
           <div className="flex items-center my-6">
             <FaPhoneAlt className="mr-8 text-2xl duration-300 cursor-pointer hover:text-primary"></FaPhoneAlt>
-            <h3 className="font-medium text-primary">+62 821 2566 4554</h3>
+            <h3 className="font-medium text-primary">+358 414001 040</h3>
           </div>
           <div className="flex items-center my-6">
             <MdEmail className="mr-8 text-3xl duration-300 cursor-pointer hover:text-primary"></MdEmail>
-            <h3 className="font-medium text-primary">info@msnproduction.com</h3>
+            <h3 className="font-medium text-primary">l3ttsecid@gmail.com</h3>
           </div>
           <div className="flex items-center my-6">
             <FaClock className="mr-8 text-2xl duration-300 cursor-pointer hover:text-primary"></FaClock>
@@ -148,8 +148,7 @@ const Kontak = () => {
           <div className="flex items-center my-6">
             <FaLocationArrow className="mr-8 text-4xl duration-300 cursor-pointer hover:text-primary"></FaLocationArrow>
             <h3 className="font-medium text-primary">
-              Kp. Cigintung RT 010 RW 004, Ds. Kertasari, Kec. Pangkalan,
-              Kab. Karawang, Jawa Barat, 41362
+               Bandung Jawa Barat, 40153
             </h3>
           </div>
         </motion.div>
