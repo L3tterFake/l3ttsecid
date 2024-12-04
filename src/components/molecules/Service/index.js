@@ -70,7 +70,7 @@ const Service = () => {
               <br />
               <span className="flex justify-center mb-5">
                 <a
-                  href="https://wa.me/6282125664554"
+                  href="https://wa.me/358414001040"
                   target="blank"
                 >
                   <button className="flex items-center gap-3 text-black duration-500 bg-transparent border-2 btn border-primary hover:bg-primary hover:border-transparent hover:text-white">
