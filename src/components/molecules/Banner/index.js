@@ -22,7 +22,7 @@ const Banner = () => {
 
         <div className="flex items-center mb-20">
           <a
-            href="https://wa.me/6282125664554"
+            href="https://wa.me/358414001040"
             target="blank"
           >
             <button className="primary-button">
@@ -49,7 +49,7 @@ const Banner = () => {
         transition={{ duration: 1 }}
       >
         <div className="order-1 pt-10 lg:order-3 lg:pt-0 md:pt-0 sm:pt-0">
-          <img src={bannerImg} alt="Banner MSN PRODUCTION"></img>
+          <img src={bannerImg} alt="Banner L3ttsecID"></img>
         </div>
       </motion.div>
     </div>
